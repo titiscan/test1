@@ -1,6 +1,8 @@
 # titre
 **bold**
 
+$\(a+b)^2=a^2+2*a*b+b^2$
+
 $\sqrt{3x-1}+(1+x)^2$
 
 **The Cauchy-Schwarz Inequality**
