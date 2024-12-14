@@ -1,3 +1,3 @@
 # titre
-*bold*
+**bold**
 x^2
